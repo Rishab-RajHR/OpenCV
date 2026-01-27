@@ -1,6 +1,7 @@
 import cv2
 
 image = cv2.imread(r"Image Resizing and shaping\images.jpg")
+# width, height
 
 if image is None:
     print("Image not found")
