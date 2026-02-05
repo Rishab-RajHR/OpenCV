@@ -2,6 +2,10 @@
 1- cv2.bitwise_and(img1, img2)
 2- cv2.bitwise_or(img1, img2)
 3- cv2.bitwise_not(img1)
+
+* img1 img2 height width same
+** use only black and white
+***
 """
 
 import cv2 
