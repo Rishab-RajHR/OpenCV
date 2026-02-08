@@ -44,4 +44,4 @@ for contour in contours:
 
 cv2.imshow("Contours", img)
 cv2.waitKey(0)
-cv2.destroyAllWindows()
+cv2.destroyAllWindows() # Obeject detection
